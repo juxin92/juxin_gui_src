@@ -4,4 +4,8 @@ class Test {
 		int b = 2;
 		System.out.println(a + " + " + b + " = " + (a + b));
 	}
+	
+	public static int aa() {
+		return 1;
+	}
 }
